@@ -1,0 +1,10 @@
+#Ignora la siguiente extensiones de ficheros
+*.class
+*.log
+*.java
+
+#Ignora todos los ficheros del directorio hola
+hola/*
+
+#Ignora los ficheros pdf del directorio ignorame
+ignorame/*.pdf
